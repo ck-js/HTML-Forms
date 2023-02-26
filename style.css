@@ -2,5 +2,14 @@ body {
 
     background-color: black;
     color: white;
-    
+text-align: center;
+
 }
+ 
+
+.vetFormContainer input[type=text] {
+    background-color: green;
+
+}
+
+

@@ -11,18 +11,23 @@ text-align: center;
 
 }
 
+.vetFormContainer input[type=email] {
+    background-color: gray;
+    
+}
+
 .vetFormContainer input[type=number] {
-    background-color: green;
+    background-color: gray;
     
     }
 
     .vetFormContainer #petType {
-        background-color: green;
+        background-color: gray;
 
     }
 
     .vetFormContainer input[type=time] {
-background-color: green;
+background-color: gray;
 
     }
 
@@ -32,4 +37,9 @@ padding: 14px 40px;
 border-radius: 10px;
 background-color: green;
 border: 2px solid purple;
+}
+
+fieldset {
+    color: gold;
+border:2px solid gold;
 }
